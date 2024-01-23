@@ -1,8 +1,3 @@
-# Hi there, I'm Redouan Bouzid
-
-## About Me
-
-##
 <h1 align="center">Hi 👋, I'm Redouan Bouzid</h1>
 <h3 align="center">A passionate (fullstack) software developer from the Netherlands</h3>
 
