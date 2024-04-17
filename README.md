@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=redouanbou" alt="redouanbou" /></a> </p>
 
-- 🔭 I’m currently working on **Simple Scrum Board**
+- 🔭 I’m currently working on **Fullstack E-commerce App**
 
 - 🌱 I’m currently learning **Design Patterns & Kubernetes**
 
