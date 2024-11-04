@@ -5,7 +5,7 @@ Software Engineer
 -----------------
 
 * 🌍  I'm based in Amersfoort, Netherlands
-* 🖥️  See my portfolio at [My Portfolio](http://rbportfolio-gilt.vercel.app/)
+* 🖥️  See my portfolio at [My Portfolio]()
 * ✉️  You can contact me at [redouan.bouzid96@gmail.com](mailto:redouan.bouzid96@gmail.com)
 * 🧠  I'm learning Kubernetes
 * 🤝  I'm open to collaborating on interesesting projects
